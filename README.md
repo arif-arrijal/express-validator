@@ -1,4 +1,15 @@
 # express-validator
-Demo application for showing about express-validator library on expressJS\
-For running this application. first please type npm install to install all needed package.\
-After that, you can run this application using npm start 
+Demo application for showing about [express-validator](https://github.com/validatorjs/validator.js) library on [expressJS](https://expressjs.com/)
+- [express-validator](#express-validator)
+  - [Installation](#installation)
+  - [Running](#running)
+
+## Installation
+```
+npm install
+```
+
+## Running
+```
+npm start
+```
